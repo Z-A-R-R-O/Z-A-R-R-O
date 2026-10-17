@@ -1,58 +1,62 @@
 # Arunez Zarro
 
-**Aruneshwaran · Full-stack developer · B.Tech Artificial Intelligence, SRMIST**
+**Aruneshwaran · Full-stack developer · Founder-in-progress**
 
-*The name behind the work is Aruneshwaran. The public identity I build under is Arunez Zarro.*
+*Aruneshwaran is my real name. Arunez Zarro is the identity I build in public.*
 
-I build software at the intersection of full-stack engineering, product thinking, interface craft, and AI-powered tools. I’m interested in the hard part after the idea: turning it into something people can understand, use, test, and trust.
+I write software, shape products, and work toward building companies that deserve to exist. My interests sit at the intersection of full-stack engineering, AI-powered tools, product design, and systems thinking.
 
-I prefer quiet confidence over loud claims. A plan is not a product; a product is not proof. I try to make the difference visible.
+I have little interest in noise for its own sake. Ideas are cheap. Execution leaves a trace. Evidence settles the argument.
 
-## The bigger picture
+## The direction
 
-### [Veyminore](https://github.com/Z-A-R-R-O/Veyminore) — the venture I’m building toward
+### [Veyminore](https://github.com/Z-A-R-R-O/Veyminore)
+**A technology venture in planning and development.**
 
-Veyminore is my planned technology venture: the long-term home for products, experiments, reusable technology, and the systems that support them. The goal is to build with a coherent engineering direction instead of leaving every idea as an isolated repository.
+Veyminore is the long-term home I’m shaping for software products, experiments, shared technology, and the infrastructure around them. The ambition is to build an ecosystem—not a graveyard of disconnected ideas.
 
-Veyminore is in its planning and development stage. This profile does not present it as a launched company.
+It is still in its planning and development stage. The work ahead is to turn the structure into durable products, one credible step at a time.
 
-### InterFrozt — digital experiences under Veyminore
+### InterFrozt
+**Software products and startup-building under Veyminore.**
 
-InterFrozt is part of the Veyminore ecosystem, not a separate company. It is where I explore digital products, web experiences, interface systems, and the craft of making software feel considered from the first interaction onward.
+InterFrozt is an initiative within Veyminore, not a separate company. Its intended direction is to become a home for software products and startup ideas: a place where useful concepts are developed into real, coherent digital experiences.
 
-The relationship is intentional: **Veyminore is the umbrella; InterFrozt is one of the initiatives within it.**
+**Veyminore is the umbrella. InterFrozt belongs inside it.** The structure is a direction being built, not a claim that every part is already launched.
 
 ## Selected work
 
 ### [HospitalX](https://github.com/Z-A-R-R-O/HospitalX)
 **Care flows further.**
 
-A hospital-operations prototype exploring how patient context, team ownership, and the next action can stay connected across operational workflows.
+A hospital-operations prototype focused on keeping patient context, team ownership, and the next action connected across workflows.
 
-- **Engineering:** Next.js, React, JavaScript/TypeScript, PostgreSQL/Neon, Drizzle ORM, and offline-conscious foundations.
-- **Focus:** connected workflows, operational visibility, resilient experiences, and clearer handoffs.
-- **My lens:** reduce the distance between information, ownership, and the next useful action.
+- **Stack:** Next.js, React, JavaScript/TypeScript, PostgreSQL/Neon, Drizzle ORM.
+- **Engineering focus:** operational visibility, offline-conscious foundations, resilient workflows, and clearer handoffs.
+- **Question behind the product:** how do we make the next action clearer when systems, shifts, and people change?
 
-HospitalX is a prototype and engineering foundation—not approved clinical software or a clinical decision system. Real-world use requires further implementation, independent validation, and appropriate approvals.
+HospitalX is a prototype and engineering foundation. It is not approved clinical software or a clinical decision system. Real-world use requires further implementation, independent validation, and appropriate approvals.
 
 ### [ZETRO](https://github.com/Z-A-R-R-O/zetro)
-**A controlled execution runtime for agent-driven work.**
+**Controlled execution for agent-driven work.**
 
-ZETRO explores how computer actions can be routed through explicit policies, recorded, and evaluated against evidence instead of treating an issued action as proof of success.
+ZETRO explores how computer actions can pass through explicit policies, leave a record, and be evaluated against evidence. An instruction being sent is not proof that the intended outcome happened.
 
-- **Engineering:** Node.js, TypeScript-oriented workspace tooling, adapters, automated checks, and runtime documentation.
+- **Stack:** Node.js, TypeScript-oriented workspace tooling, adapters, tests, and runtime documentation.
 - **Current slice:** an Antigravity adapter and an offline synthetic RCT demo.
-- **Principle:** an action being sent is not the same as an outcome being verified.
+- **Engineering principle:** control first; execution second; verification always.
 
-ZETRO is in development. The repository distinguishes implemented work from planned runtime and orchestration capabilities.
+ZETRO remains in development. Its documentation separates implemented functionality from planned runtime and orchestration capabilities.
 
-## How I build
+## How I think about building
 
-- **Evidence before claims.** I want a reviewer to be able to inspect what exists and reproduce the important steps.
-- **Interfaces should clarify.** Visual polish matters, but it must serve hierarchy, comprehension, and usability.
-- **Systems should reveal their limits.** Experimental, incomplete, or unsafe-for-production behavior should be labelled clearly.
-- **Make the next action obvious.** Good software lowers the cost of understanding what to do next.
-- **Build for the handoff.** Code and documentation should remain understandable to the next person who inherits them.
+- **Proof over performance.** If a claim matters, make it inspectable.
+- **Taste with a reason.** An interface should look deliberate because it works deliberately.
+- **No mystery around limitations.** If something is experimental, incomplete, or not safe for production, say so.
+- **Systems over stunts.** A clever demo is a beginning. Reliability is the work.
+- **Finish the handoff.** Software is not only what runs; it is also what the next person can understand, maintain, and improve.
+
+I want to become the kind of engineer who can take a problem from a blank page to a dependable system—and the kind of founder who knows that ambition creates an obligation to deliver.
 
 ## Technical toolkit
 
@@ -61,22 +65,24 @@ ZETRO is in development. The repository distinguishes implemented work from plan
 | Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
 | Backend | Node.js, API design, Python |
 | Data | PostgreSQL, SQL, Drizzle ORM, Prisma |
-| Product engineering | Testing, technical documentation, offline-conscious web patterns, architecture and workflow design |
-| Daily workflow | Git, debugging, iteration, and evidence-led verification |
+| Product engineering | Testing, architecture, technical documentation, offline-conscious web patterns |
+| Workflow | Git, debugging, iteration, evidence-led verification |
 
-This list reflects technologies I work with across projects—not a claim that every tool is used in every repository.
+This is a summary of technologies I work with across projects; it does not imply that every tool is used in every repository.
 
-## Where I’m headed
+## Current chapter
 
-I’m completing my B.Tech in Artificial Intelligence at SRMIST while building a stronger engineering track record through real projects. I’m currently looking for **remote software engineering internships and junior developer opportunities** where I can contribute, learn from an experienced team, and ship work that matters.
+I’m completing my B.Tech in Artificial Intelligence at SRMIST while building a stronger record of practical engineering work.
 
-Alongside that, I’m developing the foundations for Veyminore and bringing its projects into a clearer, more deliberate structure.
+I’m open to **remote software engineering internships and junior developer opportunities**. I want to work with people who care about shipping, can challenge my assumptions, and judge the work by what it does—not by how loudly it is presented.
 
-## A little beyond the code
+Alongside that, I’m building the foundations of Veyminore and defining how its initiatives grow into real products.
 
-I care about thoughtful design, precise language, systems that hold up under scrutiny, and the patience to improve something after the first version exists.
+## Beyond the code
 
-I’m ambitious about what I want to build, but I don’t want ambition to do the work’s job.
+I value design with intent, clear thought, hard questions, and the discipline to keep improving after the first version loses its shine.
+
+I’m ambitious. I’m still learning. Neither fact needs to be disguised.
 
 ## Connect
 
@@ -86,4 +92,4 @@ I’m ambitious about what I want to build, but I don’t want ambition to do th
 
 ---
 
-*Build with intent. Make the evidence visible. Let the work speak.*
+*Less noise. More proof. Build what holds.*
