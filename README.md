@@ -2,61 +2,63 @@
 
 **Aruneshwaran · Full-stack developer · Founder-in-progress**
 
-*Aruneshwaran is my real name. Arunez Zarro is the identity I build in public.*
+*Aruneshwaran is my real name. Arunez Zarro is the identity I build under.*
 
-I write software, shape products, and work toward building companies that deserve to exist. My interests sit at the intersection of full-stack engineering, AI-powered tools, product design, and systems thinking.
+The world has enough people performing ambition. I’m interested in the unglamorous part: building, breaking, learning, fixing, and shipping again.
 
-I have little interest in noise for its own sake. Ideas are cheap. Execution leaves a trace. Evidence settles the argument.
+I work across full-stack engineering, AI-powered tools, and product design. I’m building toward something larger through **Veyminore**. No borrowed status. No invented scale. The work is either there, or it isn’t.
+
+> Don't confuse the image of a builder with the work of building.
 
 ## The direction
 
 ### [Veyminore](https://github.com/Z-A-R-R-O/Veyminore)
 **A technology venture in planning and development.**
 
-Veyminore is the long-term home I’m shaping for software products, experiments, shared technology, and the infrastructure around them. The ambition is to build an ecosystem—not a graveyard of disconnected ideas.
+Veyminore is the structure I’m building toward: a home for software products, experiments, shared technology, and the systems needed to turn ideas into durable work.
 
-It is still in its planning and development stage. The work ahead is to turn the structure into durable products, one credible step at a time.
+It is still in planning and development. The ambition is real; the company’s future has to be earned through execution.
 
 ### InterFrozt
 **Software products and startup-building under Veyminore.**
 
-InterFrozt is an initiative within Veyminore, not a separate company. Its intended direction is to become a home for software products and startup ideas: a place where useful concepts are developed into real, coherent digital experiences.
+InterFrozt is an initiative within Veyminore, not a separate company. Its intended direction is to develop software products and startup ideas from concept into useful, coherent digital experiences.
 
-**Veyminore is the umbrella. InterFrozt belongs inside it.** The structure is a direction being built, not a claim that every part is already launched.
+**Veyminore is the umbrella. InterFrozt belongs inside it.** The structure is a direction in progress, not a claim that every part is already launched.
 
-## Selected work
+## The work
 
 ### [HospitalX](https://github.com/Z-A-R-R-O/HospitalX)
 **Care flows further.**
 
-A hospital-operations prototype focused on keeping patient context, team ownership, and the next action connected across workflows.
+A hospital-operations prototype exploring how patient context, team ownership, and the next action can stay connected across operational workflows.
 
 - **Stack:** Next.js, React, JavaScript/TypeScript, PostgreSQL/Neon, Drizzle ORM.
-- **Engineering focus:** operational visibility, offline-conscious foundations, resilient workflows, and clearer handoffs.
-- **Question behind the product:** how do we make the next action clearer when systems, shifts, and people change?
+- **Focus:** operational visibility, offline-conscious foundations, resilient workflows, clearer handoffs.
+- **Question:** when people, shifts, and systems change, how do we keep the next action clear?
 
-HospitalX is a prototype and engineering foundation. It is not approved clinical software or a clinical decision system. Real-world use requires further implementation, independent validation, and appropriate approvals.
+HospitalX is a prototype and engineering foundation—not approved clinical software or a clinical decision system. Real-world use requires further implementation, independent validation, and appropriate approvals.
 
 ### [ZETRO](https://github.com/Z-A-R-R-O/zetro)
 **Controlled execution for agent-driven work.**
 
-ZETRO explores how computer actions can pass through explicit policies, leave a record, and be evaluated against evidence. An instruction being sent is not proof that the intended outcome happened.
+ZETRO explores how computer actions can be routed through explicit policies, recorded, and evaluated against evidence. An action being issued is not proof that the intended outcome happened.
 
-- **Stack:** Node.js, TypeScript-oriented workspace tooling, adapters, tests, and runtime documentation.
+- **Stack:** Node.js, TypeScript-oriented workspace tooling, adapters, automated checks, runtime documentation.
 - **Current slice:** an Antigravity adapter and an offline synthetic RCT demo.
-- **Engineering principle:** control first; execution second; verification always.
+- **Principle:** control first; execution second; verification always.
 
 ZETRO remains in development. Its documentation separates implemented functionality from planned runtime and orchestration capabilities.
 
-## How I think about building
+## How I build
 
 - **Proof over performance.** If a claim matters, make it inspectable.
-- **Taste with a reason.** An interface should look deliberate because it works deliberately.
-- **No mystery around limitations.** If something is experimental, incomplete, or not safe for production, say so.
-- **Systems over stunts.** A clever demo is a beginning. Reliability is the work.
-- **Finish the handoff.** Software is not only what runs; it is also what the next person can understand, maintain, and improve.
+- **Taste with a reason.** Visual polish without purpose is decoration.
+- **Know the limits.** Experimental, incomplete, and production-ready are not interchangeable words.
+- **Systems over stunts.** A clever demo is a start. Reliability is the work.
+- **Own the handoff.** If another person cannot understand, run, or maintain what I built, the job is unfinished.
 
-I want to become the kind of engineer who can take a problem from a blank page to a dependable system—and the kind of founder who knows that ambition creates an obligation to deliver.
+I want to become the kind of engineer who can carry a problem from a blank page to a dependable system—and the kind of founder who understands that ambition creates an obligation to deliver.
 
 ## Technical toolkit
 
@@ -74,15 +76,19 @@ This is a summary of technologies I work with across projects; it does not imply
 
 I’m completing my B.Tech in Artificial Intelligence at SRMIST while building a stronger record of practical engineering work.
 
-I’m open to **remote software engineering internships and junior developer opportunities**. I want to work with people who care about shipping, can challenge my assumptions, and judge the work by what it does—not by how loudly it is presented.
+I’m open to **remote software engineering internships and junior developer opportunities**. I want to work with people who challenge assumptions, care about craft, and judge the work by what it does—not by how loudly it is presented.
 
-Alongside that, I’m building the foundations of Veyminore and defining how its initiatives grow into real products.
+Alongside that, I’m building the foundations of Veyminore and defining how its initiatives can grow into real products.
+
+## Roots
+
+[Aaran / Codexsun](https://www.codexsun.com/) is my father’s company. I include it here as a family connection—not as a claim of ownership, employment, or work delivered by me.
 
 ## Beyond the code
 
-I value design with intent, clear thought, hard questions, and the discipline to keep improving after the first version loses its shine.
+I value clear thought, deliberate design, uncomfortable questions, and the discipline to keep improving after the first version loses its shine.
 
-I’m ambitious. I’m still learning. Neither fact needs to be disguised.
+I’m ambitious. I’m still learning. Neither fact needs a disguise.
 
 ## Connect
 
