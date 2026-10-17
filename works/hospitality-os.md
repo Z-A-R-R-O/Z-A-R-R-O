@@ -12,9 +12,10 @@ Hospitality OS is a restaurant operations interface concept for a fictional Cafe
 ## Interaction model
 
 - Menu items can be added to an order and quantities changed.
-- The pricing module calculates subtotals, tax, service, discounts, and totals.
+- The pricing module calculates subtotals, tax, service, discounts, and totals. Demo rates are centralized in a named policy so they are visible and clearly illustrative.
 - Orders can be held and restored, then completed into local demo receipts.
 - Demo state is persisted in the browser through localStorage.
+- The Vitest file covers rounding, modifiers, fixed and percentage discounts, empty orders, negative discounts, and currency formatting; a full Vitest run has not been confirmed here.
 
 The source uses sample menu items and illustrative service data. The displayed totals and operational numbers are not evidence of actual restaurant activity.
 
