@@ -19,12 +19,12 @@ Veyminore is the structure I’m building toward: a home for software products, 
 
 It is still in planning and development. The ambition is real; the company’s future has to be earned through execution.
 
-### InterFrozt
-**Software products and startup-building under Veyminore.**
+### [InterFrozt](https://interfrozt.vercel.app)
+**Software products and startup initiatives under Veyminore.**
 
-InterFrozt is an initiative within Veyminore, not a separate company. Its intended direction is to develop software products and startup ideas from concept into useful, coherent digital experiences.
+InterFrozt is an initiative within Veyminore, not a separate company. Its intended direction is to be a home for software products and startup ideas. The public-facing site is available; the source repository remains private.
 
-**Veyminore is the umbrella. InterFrozt belongs inside it.** The structure is a direction in progress, not a claim that every part is already launched.
+**Veyminore is the umbrella. InterFrozt belongs inside it.** The site is a public front door, not a claim that every planned product is already launched.
 
 ## The work
 
