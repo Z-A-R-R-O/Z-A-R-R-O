@@ -28,6 +28,8 @@ InterFrozt is an initiative within Veyminore, not a separate company. Its intend
 
 ## The work
 
+A curated archive of project case studies lives in [works/README.md](works/README.md). It covers HospitalX, ZETRO, IFZ14, Hospitality OS, and the Veyminore / InterFrozt relationship—with current status and limitations made explicit.
+
 ### [HospitalX](https://github.com/Z-A-R-R-O/HospitalX)
 **Care flows further.**
 
